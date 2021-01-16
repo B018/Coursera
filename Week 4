@@ -1,0 +1,6 @@
+In my project I will be looking at a new potential location for a restaurant in Toronto. I will be analysing the area to identify the most popular restaurants and identify a gap in the market. If the area is saturated with too much of a cuisine then it will be tough for a new restaurant to survive, therefore we will be deciding what cuisine after analysing the data.
+This would be helpful to anyone who wants to open a restaurants in future as this document will analyse the area and the restaurant market providing information on competitions.
+
+
+
+The information for Toronto was obtained through the Wikipedia, which we scraped through and built a data frame. I will clean it and use Foursquare location data to obtain the latitude and longitude for each point. 
